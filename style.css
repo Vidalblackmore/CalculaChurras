@@ -6,10 +6,21 @@ head{
 
 body{
     background-image: url("https://images4.alphacoders.com/199/thumb-1920-199238.jpg");
+    text-align: left;
 
 }
-h1{
-    color: white;
+#titulo{
+    background-color: gray;
     text-align: center;
+    margin: 10px;
+    height: 40px;
+    border-radius: 10px;
 }
+#corpo{
+    background-color: gray;
+    text-align: center;
+    margin: 10px;
+    height: 100px;
+    border-radius: 10px;
 
+}
