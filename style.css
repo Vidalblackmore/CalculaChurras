@@ -18,9 +18,12 @@ body{
 }
 #corpo{
     background-color: gray;
-    text-align: center;
     margin: 10px;
     height: 100px;
     border-radius: 10px;
+
+}
+#caixa-texto{
+    text-align: left;
 
 }
